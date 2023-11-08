@@ -1,0 +1,56 @@
+zones: 
+  # there's a 'content' zone that is the frame image itself --
+  # all the zone locations are relative to this...defined in each
+  # direction from the content zone outward...
+
+  # north zones are in reverse order...since they're added to top as
+  # the are declared
+  scenedetect:
+    title:  Scene detection
+    location: north
+    size: 25
+  imageclassification:
+    title:  Mediapipe Image Classification
+    location: north
+    size: 25
+  audioclassifier:
+    title:  Mediapipe Audio Classifier
+    location: north
+    size: 25
+
+  # south zones are in order since they are added to the bottom as they
+  # are declared.
+  whisper-en:
+    title:  Whisper EN
+    location: south
+    size: 25
+  whisper-es:
+    title:  Whisper ES
+    location: south
+    size: 25
+  whisper-fr:
+    title:  Whisper FR
+    location: south
+    size: 25
+  whisper-ja:
+    title:  Whisper JA
+    location: south
+    size: 25
+
+styles:
+  default:
+    fontsize: 25
+    #font: NotoSans-Regular.ttf
+  face:
+    foreground: blue
+    fontsize: 0.03
+  object:
+    foreground: white
+    fontsize: 0.03
+  ocr:
+    foreground: green
+    fontsize: 0.03
+  person:
+    foreground: red
+    fontsize: 0.03
+    

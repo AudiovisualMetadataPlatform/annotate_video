@@ -1,0 +1,60 @@
+---
+zones:
+  - name: audio
+    title: Audio Classification
+    location: north
+    size: 25
+  - name: title
+    title: Video Title
+    location: north
+    size: 30
+  - name: trans_en
+    title: English Transcript
+    size: 30
+    location: south
+  - name: trans_fr
+    title: French Transcript
+    size: 30
+    location: south
+  - name: trans_es
+    title: Spanish Transcript
+    size: 30
+    location: south
+  - name: trans_ja
+    title: Japanese Transcript
+    size: 30
+    location: south
+  - name: faces
+    title: Faces
+    size: 32
+    location: east
+  
+
+annotations:
+  0:
+    - zone: title
+      position: [0, 0]
+      text: CLIO Something something
+    - zone: audio
+      position: [0, 0]
+      text: Silence
+    - zone: trans_en
+      position: [0, 0]
+      text: Some english transcript
+    - zone: trans_es
+      position: [0, 0]
+      text: Some spanish transcript
+    - zone: trans_fr
+      position: [0, 0]
+      text: allez allez allez!
+    - zone: trans_ja
+      position: [0, 0]
+      text: sumo magick!
+    - zone: content
+      position: [10, 35]
+      size: [20, 20]
+      title: Object 1
+    - zone: content
+      position: [100, 150]
+      size: [50, 76]
+      title: Object 2

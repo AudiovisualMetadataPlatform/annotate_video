@@ -1,0 +1,317 @@
+[
+  {
+    "timestamp_ms": 0,
+    "score": 0.1484375,
+    "category_name": "White noise"
+  },
+  {
+    "timestamp_ms": 975,
+    "score": 0.19921875,
+    "category_name": "Outside, rural or natural"
+  },
+  {
+    "timestamp_ms": 1950,
+    "score": 0.1484375,
+    "category_name": "Vehicle"
+  },
+  {
+    "timestamp_ms": 2925,
+    "score": 0.05859375,
+    "category_name": "Wind"
+  },
+  {
+    "timestamp_ms": 3900,
+    "score": 0.5,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 4875,
+    "score": 0.19921875,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 5850,
+    "score": 0.5859375,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 6825,
+    "score": 0.66796875,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 7800,
+    "score": 0.66796875,
+    "category_name": "Bird"
+  },
+  {
+    "timestamp_ms": 8775,
+    "score": 0.91796875,
+    "category_name": "Chime"
+  },
+  {
+    "timestamp_ms": 9750,
+    "score": 0.66796875,
+    "category_name": "Bell"
+  },
+  {
+    "timestamp_ms": 10725,
+    "score": 0.08203125,
+    "category_name": "Bird"
+  },
+  {
+    "timestamp_ms": 11700,
+    "score": 0.4140625,
+    "category_name": "Bird"
+  },
+  {
+    "timestamp_ms": 12675,
+    "score": 0.73828125,
+    "category_name": "Bird"
+  },
+  {
+    "timestamp_ms": 13650,
+    "score": 0.5859375,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 14625,
+    "score": 0.66796875,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 15600,
+    "score": 0.66796875,
+    "category_name": "Bird"
+  },
+  {
+    "timestamp_ms": 16575,
+    "score": 0.5,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 17550,
+    "score": 0.19921875,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 18525,
+    "score": 0.05859375,
+    "category_name": "Bird"
+  },
+  {
+    "timestamp_ms": 19500,
+    "score": 0.1484375,
+    "category_name": "Animal"
+  },
+  {
+    "timestamp_ms": 20475,
+    "score": 0.26171875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 21450,
+    "score": 0.19921875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 22425,
+    "score": 0.26171875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 23400,
+    "score": 0.19921875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 24375,
+    "score": 0.94140625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 25350,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 26325,
+    "score": 0.8515625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 27300,
+    "score": 0.98046875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 28275,
+    "score": 0.80078125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 29250,
+    "score": 0.94140625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 30225,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 31200,
+    "score": 0.19921875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 32175,
+    "score": 0.73828125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 33150,
+    "score": 0.73828125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 34125,
+    "score": 0.91796875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 35100,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 36075,
+    "score": 0.890625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 37050,
+    "score": 0.96875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 38025,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 39000,
+    "score": 0.8515625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 39975,
+    "score": 0.5859375,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 40950,
+    "score": 0.98046875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 41925,
+    "score": 0.94140625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 42900,
+    "score": 0.96875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 43875,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 44850,
+    "score": 0.91796875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 45825,
+    "score": 0.890625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 46800,
+    "score": 0.66796875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 47775,
+    "score": 0.890625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 48750,
+    "score": 0.96875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 49725,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 50700,
+    "score": 0.96875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 51675,
+    "score": 0.890625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 52650,
+    "score": 0.91796875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 53625,
+    "score": 0.98046875,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 54600,
+    "score": 0.98828125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 55575,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 56550,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 57525,
+    "score": 0.95703125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 58500,
+    "score": 0.80078125,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 59475,
+    "score": 0.890625,
+    "category_name": "Music"
+  },
+  {
+    "timestamp_ms": 60450,
+    "score": 0.80078125,
+    "category_name": "Silence"
+  }
+]
